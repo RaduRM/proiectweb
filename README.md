@@ -8,3 +8,4 @@ Mai nou, la Clasament, exista si un Line Chart care arata progresul pe zile a hi
 
 Intrebarile sunt de cultura generala, din mai multe domenii, care se regasesc in baza de date. 
 
+In repository se gasesc si cateva tentative, un test pentru line chart si un "forgot-password" pe care am incercat sa-l fac... el este functional ca si front-end dar nu am resuit sa pot sa fac posibila trimiterea mail-ului. Pe viitor imi doresc sa rezolv si acest lucru :)
